@@ -13,3 +13,5 @@ So for those who can't yet move to the newer initiatives and still have to reply
 | md5 | 6406606573007f8a201de6365beeda46 |
 | sha1 | 06cac35c1e15c8815dc48a7dede59334e86467d2 |
 | sha256 | 3f6f19c0d95b8f40930e6a134f42facc19bced3b1523552dbb583866b4db4dd5 |
+
+Simian Army is a copyright of Netflix, Inc., and [licensed](https://github.com/Netflix/SimianArmy/blob/master/LICENSE) under the Apache License, Version 2.0 
