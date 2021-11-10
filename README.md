@@ -4,9 +4,9 @@ SimianArmy 2.5.3 Mirror
 This repo is a mirror of [Netflix Simian Army](https://github.com/Netflix/SimianArmy) 2.5.3 war file.
 
 This war file used to be distributed at https://dl.bintray.com/netflixoss/maven/com/netflix/simianarmy/simianarmy/2.5.3/simianarmy-2.5.3.war as per `Files` info on [Maven Repository](https://mvnrepository.com/artifact/com.netflix.simianarmy/simianarmy/2.5.3).
-However, the war file no longer exists on Bintray since mid 2021.
+However, the war file no longer exists on Bintray since mid 2021, and Netflix/SimianArmy repo has been archived [noting](https://groups.google.com/g/simianarmy-users/c/-_LtRyhJQ0s) that parts of Simian Army project have been moved to be either a standalone project, replaced by another project, or embedded into another project.
 
-The mirrored file can be downloaded from https://github.com/shinesolutions-opensource/SimianArmy-2.5.3-mirror/blob/main/simianarmy-2.5.3.war .
+So for those who can't yet move to the newer initiatives and still have to reply on Simian Army artifact, the mirrored file can be downloaded from https://github.com/shinesolutions-opensource/SimianArmy-2.5.3-mirror/blob/main/simianarmy-2.5.3.war .
 
 | | Hash |
 |-|------|
